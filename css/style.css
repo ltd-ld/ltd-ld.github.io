@@ -342,6 +342,7 @@ a.button:hover {
   color: #212529;
   text-align: left;
   display: none;
+  z-index: 999;
 }
 
 .header .nav-bar .navbar ul > li.menu_item .sub_menu li a {
